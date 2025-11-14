@@ -7,3 +7,7 @@ User spilled water on their laptop and needs immediate assistance.
 
 Status: Open
 Prio: Urgent
+
+Activity Log:
+2025-11-14T22:29:08.652+09:00 - Ticket created (Urgent). Escalated to human IT technician for liquid damage.
+2025-11-14T22:40:00.000+09:00 - User reported laptop is "functioning somewhat but it is still problematic."
